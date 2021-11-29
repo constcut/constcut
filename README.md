@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @constcut
 - 👀 I’m interested in music, math and psychiatry/psychotherapy.
 - 🌱 I’m currently learning ML and music therapy applications.
-- 💞️ I’m looking to collaborate on musical therapy applications and other applications disigned for personality disorders.
+- 💞️ I’m looking to collaborate on musical therapy applications and other applications designed for personality disorders.
 - 📫 How to reach me: @KonstKut in TG
 
 <!---
